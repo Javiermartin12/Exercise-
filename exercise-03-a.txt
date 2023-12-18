@@ -1,1 +1,2 @@
 Contenido del archivo A
+Nueva modificación en exercise-03-a.txt

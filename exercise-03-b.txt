@@ -1,1 +1,2 @@
 Contenido archivo B
+Otra modificación en exercise-03-b.txt
